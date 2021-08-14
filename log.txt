@@ -1,0 +1,2 @@
+1. Download large file to a remote server from google drive:  https://dev.to/kojikanao/download-files-from-google-drive-with-curl-wget-5e4o
+Description: I downloaded file on local machine and then made it a sharable google link. Simply followed the steps in this article then. 
